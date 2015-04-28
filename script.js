@@ -13,12 +13,6 @@ function searchCallback(results) {
 	}
 }
 
-//function displayStuff(results) {
-
-//}
-
-
-
 // HELPER FUNCTION
 // Executes a search using 'query' and runs searchCallback on the results of a success.
 function search(query){

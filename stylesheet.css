@@ -1,8 +1,19 @@
 body {
     background-color: aquamarine;
 }
-.well img {
 
+.header {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 80px;
+    font-weight: bold;
+}
+.well img {
     height: 200px;
     width: 200px;
 }
